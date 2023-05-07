@@ -10,4 +10,4 @@ We monitor and try to improve these metrics, as proxies for overall project heal
 - Stewards: at least 3
 - Editors: at least 2
 
-We are currently in prototype phase, so the metrics are in flux, but our goal is to reach about 50% health before moving to production phase.
+We are currently in prototype phase, so the metrics are in flux, but our goal is to reach about 50% health for the metrics concerning number of people involved before moving to production phase.
