@@ -1,5 +1,7 @@
 # Project Finances and Business Model
 
+Also see [[Project Roles]] for ongoing contributions and [[Project Ledger]] for how contributions and income are tracked.
+
 The project's business model is focused on generating high-quality stories and community around them. It is chartered to maximize social good, and not to maximize profit.  It strives to be distributive, not extractive.
 
 The project strives to be generally cash neutral, with a small amount of fiat currency reserves held for important immediate expenses.
