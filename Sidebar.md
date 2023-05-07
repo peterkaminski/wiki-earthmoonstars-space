@@ -4,10 +4,10 @@
 
 ## Important Pages
 
-- [[Project Roles]]  
-- [[Contribution Standards]]  
-- [[Project Assets]]  
-- [[Project Finances and Business Model]]  
+[[Project Roles]]  
+[[Contribution Standards]]  
+[[Project Assets]]  
+[[Project Finances and Business Model]]  
 
 ## General Navigation
 
