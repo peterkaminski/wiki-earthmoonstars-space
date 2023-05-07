@@ -8,7 +8,7 @@ Visit the art journal: <https://stories.earthmoonstars.space/>
 
 This wiki is used for management of the project.
 
-The project owns itself and the [[Project Assets]]. You can read about the [[Project Finances and Business Model]].
+The project owns itself and the [[Project Assets]]. You can read about the [[Project Finances and Business Model]]. There is a [[Project Ledger]] which tracks contributions.
 
 The project is governed and stewarded by the [[Stewardship Committee]]. Governance voting rights are dynamic and proportional to project contributions to date.
 
