@@ -1,70 +1,19 @@
-# Your Massive Wiki
+# Earth Moon Stars Space Project Wiki
 
-Version 2023-02-09-001.
+**Earth Moon Stars Space** (EMSS) is an independent, autonomous organization whose main activity is publication of the Earth Moon Stars Space art journal.
 
-## What This Repo Is For
+It is currently in Prototype Phase. If [[Health Metrics]] for the Prototype reach acceptable levels, it will move into Production Phase.
 
-If you're seeing this on GitHub, click "Use this template" to make your own copy of this repo. Or, you can create a fork, or just clone this repo any other way.
+Visit the art journal: <https://stories.earthmoonstars.space/>
 
-This repo is great to start with if you'll ever want to use Massive Wiki Builder to publish your wiki to the web. If you don't need that capability, you can usually just start a Massive Wiki with an empty directory and Git and your favorite Markdown editor.
+This wiki is used for management of the project.
 
-## For Editing Wiki Files
+The project owns itself and the [[Project Assets]]. You can read about the [[Project Finances and Business Model]].
 
-Welcome to the home page of this wiki. Edit to make it your own! You can delete all the sample content on this page, and replace it with yours.
+The project is governed and stewarded by the [[Stewardship Committee]]. Governance voting rights are dynamic and proportional to project contributions to date.
 
-Use Markdown, or just type text -- either way works.
+The [[Editorial Committee]] is responsible for setting [[Contribution Standards]], for defining and maintaining the tone and quality of the art journal, and for setting the [[Publication Calendar]].
 
-Use double square brackets around words to make links to other pages in this wiki.
+People contribute to the project in various [[Project Roles]].
 
-## For Publishing Wiki To Website
-
-### Massive Wiki Builder
-
-**THIS FOLLOWING IS AN ADVANCED TOPIC.** You do not need the following information if you just want to edit your wiki.
-
-You can use [Massive Wiki Builder](https://github.com/peterkaminski/massivewikibuilder) to publish (export) any Massive Wiki to static HTML files. The wiki is then in a format viewable by anyone with a web browser.
-
-Massive Wiki Builder (MWB) and [Massive Wiki Themes](https://github.com/peterkaminski/massive-wiki-themes) are included in this repo as Git submodules.
-
-If your website host has build automation, you can adapt the included `netlify.toml` file to drive the build automation, and the build automation should automatically use the Git submodule mechanism to retrieve the MWB code it will need.
-
-If you are using MWB locally on your computer, you will need to retrieve MWB, and optionally, the themes.
-
-When cloning this repo using Git, you can use the `--recurse-submodules` flag to also clone the Massive Wiki Builder and Massive Wiki Themes submodules.
-
-The full command:
-
-```shell
-git clone --recurse-submodules git@github.com:Massive-Wiki/massive-wiki-starter.git
-```
-
-Or, you can clone the submodules with these commands:
-
-```shell
-git submodule init
-git submodule update
-```
-
-When the upstream Massive Wiki Builder or Massive Wiki Themes repos have been updated, your submodules won't automatically update. Conceptually, they are "pinned" to the Git hash you set them up with.
-
-To upgrade your submodules to the latest upstream version, you can use these commands:
-
-```shell
-cd .massivewikibuilder
-git submodule init
-git submodule update --remote --merge massivewikibuilder
-git submodule update --remote --merge massive-wiki-themes
-```
-
-After that, `git status` will show that there have been changes to the submodules. Use your regular add, commit, and push process to update your repo.
-
-
-See the [Submodules chapter of the Git Book](https://git-scm.com/book/en/v2/Git-Tools-Submodules) for more information about Git submodules.
-
-### Themes
-
-This starter wiki is set up with two MWB / MWT themes, Alto and Basso, in the `.massivewikibuilder/this-wiki-themes` folder. We suggest you continue to use and customize your wiki's themes in the `this-wiki-themes` folder.
-
-The Massive Wiki Themes repo is updated from time to time, and when you refresh your local Git submodule in `.massivewikibuilder/massive-wiki-themes`, you'll receive those updates. Rather than use those themes directly, though, it is suggested to copy what you want into your `this-wiki-themes` folder, and customize and use your copy of the themes from there.
-
-After you update `massive-wiki-themes`, you can compare (with `diff` or another tool) the upstream theme in `massive-wiki-themes` and your customized version of it in `this-wiki-themes`, and port over any changes you want.
+We track issues and tasks with [[Project Management]].
