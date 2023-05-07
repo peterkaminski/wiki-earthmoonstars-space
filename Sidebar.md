@@ -4,6 +4,7 @@
 
 ## Important Pages
 
+[[People]]  
 [[Project Roles]]  
 [[Contribution Standards]]  
 [[Project Assets]]  
