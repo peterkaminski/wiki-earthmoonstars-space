@@ -1,8 +1,8 @@
 # Earth Moon Stars Space Project Wiki
 
-**Earth Moon Stars Space** (EMSS) is an independent, autonomous organization whose main activity is publication of the Earth Moon Stars Space art journal.
+**Earth Moon Stars Space** (EMSS) is an independent, autonomous organization whose main activity is publication of the [Earth Moon Stars Space art journal](https://stories.earthmoonstars.space/).
 
-It is currently in Prototype Phase. If [[Health Metrics]] for the Prototype reach acceptable levels, it will move into Production Phase.
+The project is currently in Prototype Phase. If [[Health Metrics]] for the Prototype reach acceptable levels, it will move into Production Phase.
 
 Visit the art journal: <https://stories.earthmoonstars.space/>
 
