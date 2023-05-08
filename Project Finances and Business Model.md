@@ -10,4 +10,4 @@ Subscriber fees are paid to Peter Kaminski. The project does not yet have a favo
 
 The primary expense is the Ghost server.
 
-Each month, income from subscriber fees is allocated first to expenses, then a percentage (currently 50%) is held by Peter Kaminski for fiat currency reserves. Any remaining profit is paid to contributors per proportional contribution share to date.
+Each month, income from subscriber fees is allocated first to expenses, then a percentage (currently 30%) is held by Peter Kaminski for fiat currency reserves. 10% is donated to doing good outside the organization. Assume 10% will be paid as a contribution to an ecosystem network that provides benefits to the organization. Any remaining profit is paid to contributors per proportional contribution share to date.
