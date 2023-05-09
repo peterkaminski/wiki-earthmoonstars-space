@@ -3,12 +3,16 @@
 In the following, "stories" include both the text and images of a story.
 
 - ~100-200-word fiction stories, poems, etc.
-- strive for originality, thoughtfulness, morality, philosophical depth.
+- strive for originality, thoughtfulness, morality, philosophical depth
 - avoid: triteness, banality
 - avoid: stories which glorify violence, domination, subjagation, etc.
--  each story has at least one image. images should not be square (square AI-generated images are trite); portrait images of at least 4:3 width fit the format best. minimum height should be 512 pixels. (512 height * 4 / 3 aspect = 683 width)
--  stories and images can be generated with the help of AI text and image synthesis, and engines must be specified
--  “semi-professional” quality–stories don't have to be perfect, but should be pretty good, at the discretion of the [[Editorial Committee]]
+- “semi-professional” quality–stories don't have to be perfect, but should be pretty good, and will only be published at the discretion of the [[Editorial Committee]]
+- each story has at least one image. images should not be square (square AI-generated images are trite); landscape-aspect images of at least 4:3 width fit the format best. minimum height should be 512 pixels. (512 height * 4 / 3 aspect = 683 width)
+-  stories and images may be generated with the help of AI text and image synthesis, and if used, engine(s) must be specified
+- image prompts must not use the name of any living artist
+- images must include very descriptive and accurate alt text, suitable to explain the image to a blind person (consider that generic AI-generated image description may not be descriptive enough)
+- images should not include jarring physical or geometry inconsistencies (AI image glitches are trite)
+- images should not be icky, gross, cause revulsion, etc., including but not limited to possible trypophobia triggers (CONTENT WARNING, consider disabling image display in your web browser before searching for "trypophobia" in case you are trypophobic, search for "how do i disable images in my web browser?")
 -  stories do not have to have a space or science fiction theme, the "Earth Moon Stars Space" name is meant to be a whimsy, not a genre definition
 
 # What moral responsibilities should an author uphold?
